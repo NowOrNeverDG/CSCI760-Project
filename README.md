@@ -1,4 +1,5 @@
-# CSCI760 Database System Project
+# CSCI760 Project
+CSCI760 Database System Project - Holt Distributors
 
 TeamMember: Damon Tian, Bramitha Mindahalli Ramakrishna, Ge Ding
 
