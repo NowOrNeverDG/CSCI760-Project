@@ -1,4 +1,19 @@
-## How to run this app
+#CSCI760 Database System Project
+
+TeamMember: Damon Tian, Bramitha Mindahalli Ramakrishna, Ge Ding
+
+------
+
+##Requirement:
+
+•	HTML
+•	CSS 
+•	JavaScript (alpine.js) 
+•	Laravel PHP
+•	SQLite
+
+------
+##How to run this app
 
 1. cd into the project folder root
 2. run 'php artisan serve' (PHP must be installed on your system to run this)
